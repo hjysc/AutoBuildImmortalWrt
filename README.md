@@ -21,3 +21,23 @@ https://github.com/wukongdaily/DockerTarBuilder
 
 # 🌟鸣谢
 ### https://github.com/immortalwrt
+
+## 如果你访问不了github 怎么办？可将com换成site域名
+ https://github.site/wukongdaily （仅限大陆用户访问使用）
+
+## 如何获得docker离线镜像？
+【大陆用户访问】https://github.site/wukongdaily/DockerTarBuilder
+【海外用户访问】https://github.com/wukongdaily/DockerTarBuilder
+
+1、https://gh.api.99988866.xyz/
+2、https://ghp.ml1.one/
+3、https://doget.nocsdn.com/
+4、https://ghgo.xyz
+5、https://slink.ltd/
+6、https://ghps.cc/
+7、https://gh-proxy.com/
+8、https://ghproxy.cc/
+9、https://cf.ghproxy.cc/
+10、https://github.tmby.shop/
+11、https://gh-proxy.ygxz.in/
+12、https://ghproxy.net/
